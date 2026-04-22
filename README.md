@@ -1,18 +1,24 @@
-# Simple python boilerplate
+# Master Thesis: Urban Development Analysis
 
-Just clone it for an easy start and then:
+## О проекте
+Магистерская работа по градостроительству, посвящённая ...
 
-1. Make virtual environment:
+## Цель исследования
+Оценка ...
 
-   ```
-   $ python3 -m venv .venv
-2. Activate it:
-   ```
-   $ source .venv/bin/activate
-3. Install your dependencies:
+## Структура репозитория
+- `notebooks/` — Jupyter ноутбуки с анализом
+- `data/` — пространственные данные (GeoPackage)
+- `results/` — результаты анализа
 
-   ```
-   $ pip install -r requirements.txt
-4. Choose your venv in jupyter notebook kernel.
+## Используемые технологии
+- Python 3.10
+- geopandas
+- pandas
+- shapely
+- matplotlib
+- QGIS
 
-Don't forget to upgrade your ``requirements.txt`` file!
+## Как воспроизвести анализ
+
+?????????????
