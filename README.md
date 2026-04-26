@@ -13,10 +13,10 @@
 
 ## Технологический стек
 
-- **Python 3.14**
+- `**Python 3.14**`
 - `geopandas`, `pandas`, `osmnx`, `matplotlib`, `seaborn`
-- Jupyter Notebook
-- QGIS (финальная картография и визуализация)
+- `Jupyter Notebook`
+- `QGIS`
 
 ## Структура репозитория
 
