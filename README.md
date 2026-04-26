@@ -14,7 +14,7 @@
 ## Технологический стек
 
 - `Python 3.14`
-- `geopandas`, `pandas`, `osmnx`, `matplotlib`, `seaborn`
+- python package: `geopandas`, `pandas`, `osmnx`, `matplotlib`, `seaborn`
 - `Jupyter Notebook`
 - `QGIS`
 
